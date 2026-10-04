@@ -1,0 +1,27 @@
+# Node dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Python / Machine Learning files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+*.sqlite3
+
+# Environment and IDE files
+.env
+.env.local
+.env.production
+.DS_Store
+.vscode/
+.idea/
